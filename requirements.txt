@@ -66,7 +66,6 @@ pyowm==3.3.0
 PyQt5==5.15.2
 PyQt5-sip==12.8.1
 pyserial==3.5b0
-PySocks==1.7.1
 python-apt==2.2.1
 python-prctl==1.7
 rainbowhat==0.1.0
