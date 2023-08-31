@@ -66,7 +66,6 @@ pyowm==3.3.0
 PyQt5==5.15.2
 PyQt5-sip==12.8.1
 pyserial==3.5b0
-python-apt==2.2.1
 python-prctl==1.7
 rainbowhat==0.1.0
 reportlab==3.5.59
@@ -74,7 +73,6 @@ requests==2.25.1
 requests-oauthlib==1.0.0
 responses==0.12.1
 roman==2.0.0
-RPi.GPIO==0.7.0
 RTIMULib==7.2.1
 scrollphat==0.0.7
 scrollphathd==1.2.1
@@ -88,7 +86,6 @@ sn3218==1.2.7
 soupsieve==2.2.1
 spidev==3.5
 ssh-import-id==5.10
-thonny==4.0.1
 toml==0.10.1
 touchphat==0.0.1
 twython==3.8.2
