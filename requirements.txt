@@ -57,7 +57,6 @@ pycairo==1.16.2
 pycups==2.0.1
 pygame==1.9.6
 Pygments==2.7.1
-PyGObject==3.38.0
 pyinotify==0.9.6
 PyJWT==1.7.1
 pylint==2.7.2
@@ -67,7 +66,6 @@ pyowm==3.3.0
 PyQt5==5.15.2
 PyQt5-sip==12.8.1
 pyserial==3.5b0
-pysmbc==1.0.23
 PySocks==1.7.1
 python-apt==2.2.1
 python-prctl==1.7
