@@ -16,7 +16,6 @@ dbus-python==1.2.16
 distro==1.5.0
 docutils==0.16
 drumhat==0.1.0
-dbus-1==1.8
 envirophat==1.0.0
 ExplorerHAT==0.4.2
 Flask==1.1.2
