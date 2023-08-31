@@ -1,0 +1,8 @@
+Flask==1.1.2
+gpiozero==1.6.2
+gunicorn==20.1.0
+MarkupSafe==1.1.1
+Jinja2==2.11.3
+click==6.6
+itsdangerous==0.24
+Werkzeug==1.0.1
